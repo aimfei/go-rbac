@@ -11,3 +11,7 @@ type Platform struct {
 	GmtCreate    time.Time `json:"gmt_create"`
 	GmtModified  time.Time `json:"gmt_modified"`
 }
+
+func Save(model *Platform) {
+
+}

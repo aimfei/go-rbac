@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	Log_FILE_PATH = "D:\\workspace\\go\\src\\go-rbac\\logs"
+	Log_FILE_PATH = "D:\\Data\\applogs\\logs"
 	LOG_FILE_NAME = "info.log"
 )
 
